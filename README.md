@@ -17,7 +17,7 @@ Atualmente tenho me dedicado aos estudos de Java e Spring, porém estou aberto a
   <a href="https://www.linkedin.com/in/rafaelciriacodev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="rafaelcloud83@gmail.com" target="_blank">
+  <a href="mailto:rafaelcloud83@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
