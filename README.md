@@ -49,11 +49,15 @@ Atualmente tenho me dedicado aos estudos de Java e Spring, porém estou aberto a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png" height="40" alt="insomnia logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
   <img width="12" />
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-BqhtXbCrBOfumUxT1vjEQMaA4kV9qISUrMndlot1Jxel3J8tzfL1cpJM_GyS6Zw-73yKyltl0rUuLgU6e5iteD9FSL8TgaFY9wf2vYX0XN2dhpFfkeeIbOtEbosq2-6QjQCe61iXnR_d/" height="40" alt="oracle cloud logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40" alt="virtualbox logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*-nyd8VIUz-CqGR5B.png" height="40" width="90" alt="oracle cloud logo"  />
 </div>
 
 ###
