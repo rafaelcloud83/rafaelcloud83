@@ -52,6 +52,7 @@ Atualmente tenho me dedicado aos estudos de Java e Spring, porém estou aberto a
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-BqhtXbCrBOfumUxT1vjEQMaA4kV9qISUrMndlot1Jxel3J8tzfL1cpJM_GyS6Zw-73yKyltl0rUuLgU6e5iteD9FSL8TgaFY9wf2vYX0XN2dhpFfkeeIbOtEbosq2-6QjQCe61iXnR_d/" height="40" alt="oracle cloud logo"  />
 </div>
 
 ###
