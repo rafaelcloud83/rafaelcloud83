@@ -33,6 +33,10 @@ Atualmente tenho me dedicado aos estudos de Java e Spring, porém estou aberto a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
