@@ -80,3 +80,9 @@ Atualmente tenho me dedicado aos estudos de Java e Spring, porém estou aberto a
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rafaelcloud83/rafaelcloud83/output/snake.svg" alt="Snake animation" />
+
+###
