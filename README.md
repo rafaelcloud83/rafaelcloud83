@@ -3,8 +3,8 @@
 ###
 
 <font size="4">
-Olá! 👋 eu sou o <b>Rafael Ciriaco da Silva</b>, estudante de Análise e Desenvolvimento de Sistemas. Sou <b>apaixonado</b> por tecnologia e atualmente em transição de carreira para a área de Desenvolvimento de Software.<br>
-Atualmente tenho me dedicado aos estudos de Java e Spring, porém estou aberto a aprender novas Linguagens.
+Olá! 👋 me chamo <b>Rafael</b>, formado em Análise e Desenvolvimento de Sistemas. <b>Apaixonado</b> por tecnologia e atualmente em transição de carreira para a área de Desenvolvimento de Software.<br>
+Tenho dedicado meus estudos em Java e Spring, porém estou aberto a aprender novas Linguagens.
 </font>
 
 ###
