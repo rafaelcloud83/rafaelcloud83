@@ -3,8 +3,8 @@
 ###
 
 <font size="4">
-Olá! 👋 me chamo <b>Rafael</b>, formado em Análise e Desenvolvimento de Sistemas. <b>Apaixonado</b> por tecnologia e em transição de carreira para a área de Desenvolvimento de Software.<br>
-Tenho dedicado meus estudos no BackEnd com Java/Spring e no FrontEnd com JavaScript.
+Olá! 👋 me chamo <b>Rafael</b>, sou formado em Análise e Desenvolvimento de Sistemas. <b>Apaixonado</b> por tecnologia e em busca da primeira oportunidade na área de Desenvolvimento de Software.<br>
+Tenho dedicado meus estudos no Backend com Java/Spring e no Frontend com TypeScript/Angular.
 </font>
 
 ###
@@ -37,7 +37,9 @@ Tenho dedicado meus estudos no BackEnd com Java/Spring e no FrontEnd com JavaScr
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
